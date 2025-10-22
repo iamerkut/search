@@ -1,0 +1,1 @@
+<?php declare(strict_types=1); echo '<div class="card"><div class="card-body">Dynamic Search ayarları</div></div>';
